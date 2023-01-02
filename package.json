@@ -1,0 +1,11 @@
+{
+  "name": "exif-rw",
+  "version": "0.0.1",
+  "description": "Exif Read and Write.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Minde Vieras",
+  "license": "ISC"
+}
