@@ -1,1 +1,3 @@
-console.log('Hello Exif!')
+import { Exif } from './Exif'
+
+export default Exif

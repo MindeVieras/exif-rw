@@ -12,10 +12,9 @@
     "declaration": true,
     "esModuleInterop": true
   },
-  "files": [
-    "src/index.ts"
-  ],
   "include": [
+    "jest.config.ts",
+    ".eslintrc.js",
     "src",
     "test"
   ],
